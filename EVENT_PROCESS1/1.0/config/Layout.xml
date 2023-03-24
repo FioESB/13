@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="ASCII"?>
 <layout>
   <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
-    <service-instance name="chat2" x="486" y="163"/>
-    <service-instance name="chat1" x="330" y="234"/>
-    <service-instance name="Display1" x="242" y="148"/>
+    <service-instance name="Feeder1" x="193" y="110"/>
   </subflow>
   <shortcut-routes/>
 </layout>
